@@ -15,7 +15,7 @@ rendered as large half-block digits that scale to the window.
 ## Build
 
 ```sh
-cargo build --release
+mise run build
 cp target/release/clock ~/bin/
 ```
 
